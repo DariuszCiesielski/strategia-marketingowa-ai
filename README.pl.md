@@ -1,5 +1,9 @@
 [🇬🇧 English](README.md) | [🇵🇱 Polski](README.pl.md)
 
+![Last updated](https://img.shields.io/badge/Last%20updated-April%202026-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
+
 # Strategia Marketingowa AI dla MŚP
 
 Kompleksowa **7-fazowa metodologia marketingowa** zaprojektowana dla małych i średnich firm, które chcą wykorzystać AI w swoich działaniach marketingowych — od audytu po pełną automatyzację.
@@ -60,6 +64,18 @@ Metodologia jest niezależna od narzędzi, ale odwołuje się do popularnych roz
 - Planowanie social media (Buffer, Postiz)
 - Analityka (Google Analytics, Hotjar)
 - Automatyzacja e-mail (Mailerlite, ConvertKit)
+
+## Powiązane repozytoria
+
+- [ai-content-marketing](https://github.com/DariuszCiesielski/ai-content-marketing/blob/main/README.pl.md) — taktyczna egzekucja contentu dla warstwy strategicznej
+- [ai-automatyzacja-biznesu](https://github.com/DariuszCiesielski/ai-automatyzacja-biznesu/blob/main/README.pl.md) — przykłady automatyzacji biznesu, które możesz podłączyć do strategii
+- [ai-sprzedaz-i-leady](https://github.com/DariuszCiesielski/ai-sprzedaz-i-leady/blob/main/README.pl.md) — systemy sprzedaży i lead generation zgodne z metodologią
+
+## Bądź w kontakcie
+
+- **Newsletter**: [AI w Biznesie](https://aiwbiznesie.pl)
+- **LinkedIn**: [Dariusz Ciesielski](https://www.linkedin.com/in/dariuszciesielski/)
+- **Więcej repozytoriów**: [DariuszCiesielski na GitHub](https://github.com/DariuszCiesielski)
 
 ## Licencja
 
