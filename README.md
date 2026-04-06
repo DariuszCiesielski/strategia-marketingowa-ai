@@ -1,6 +1,10 @@
 [🇬🇧 English](README.md) | [🇵🇱 Polski](README.pl.md)
 
-# AI Marketing Strategy for SMBs
+![Last updated](https://img.shields.io/badge/Last%20updated-April%202026-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
+
+# AI Marketing Strategy Framework for SMBs
 
 A comprehensive **7-phase marketing methodology** designed for small and medium businesses that want to leverage AI in their marketing operations — from initial audit to full automation.
 
@@ -60,6 +64,22 @@ The methodology is tool-agnostic but references common AI tools:
 - Social media scheduling (Buffer, Postiz)
 - Analytics (Google Analytics, Hotjar)
 - Email automation (Mailerlite, ConvertKit)
+
+## Contributing
+
+Contributions, corrections, and tested framework extensions are welcome. Open an issue or PR if you want to improve the methodology or add a practical implementation example.
+
+## Related Repositories
+
+- [ai-content-marketing](https://github.com/DariuszCiesielski/ai-content-marketing) — tactical content execution for the strategy layer
+- [ai-automatyzacja-biznesu](https://github.com/DariuszCiesielski/ai-automatyzacja-biznesu) — business automation examples you can plug into the strategy
+- [ai-sprzedaz-i-leady](https://github.com/DariuszCiesielski/ai-sprzedaz-i-leady) — sales and lead generation systems aligned with the methodology
+
+## Stay Connected
+
+- **Newsletter**: [AI w Biznesie](https://aiwbiznesie.pl)
+- **LinkedIn**: [Dariusz Ciesielski](https://www.linkedin.com/in/dariuszciesielski/)
+- **More repositories**: [DariuszCiesielski on GitHub](https://github.com/DariuszCiesielski)
 
 ## Language
 
