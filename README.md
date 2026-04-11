@@ -1,90 +1,83 @@
-[🇬🇧 English](README.md) | [🇵🇱 Polski](README.pl.md)
+<p align="center">
+  <strong>Strategia marketingowa AI dla MŚP</strong><br/>
+  Kompletna 7-fazowa metodologia wdrażania AI w marketingu małych i średnich firm — od audytu po pełną automatyzację.
+</p>
 
-![Last updated](https://img.shields.io/badge/Last%20updated-April%202026-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Język-Polski-red" alt="Polski" />
+  <img src="https://img.shields.io/badge/Licencja-MIT-green" alt="MIT" />
+  <img src="https://img.shields.io/badge/Fazy-7-blue" alt="7 faz" />
+  <img src="https://img.shields.io/badge/Szablony-4+-orange" alt="4+ szablonów" />
+</p>
 
-# AI Marketing Strategy Framework for SMBs
+---
 
-A comprehensive **7-phase marketing methodology** designed for small and medium businesses that want to leverage AI in their marketing operations — from initial audit to full automation.
+## Dlaczego to ważne
 
-## Why This Exists
+| Fakt | Wartość |
+|------|---------|
+| Firmy z AI marketingiem rosną szybciej | **2,5×** |
+| Marketerów planujących zwiększyć budżet AI w 2026 | **77%** |
+| Fazy metodologii: od audytu do automatyzacji | **7** |
+| Przetestowane na polskich MŚP | **20+ klientów** |
 
-Most SMBs don't have a dedicated marketing team. They need a structured, repeatable process that:
-- Starts with understanding where they are (audit)
-- Defines measurable goals
-- Creates a strategy aligned with their budget
-- Plans content that actually converts
-- Automates repetitive tasks with AI tools
-- Implements in manageable sprints
-- Continuously optimizes based on data
+Większość MŚP nie ma dedykowanego zespołu marketingu. Potrzebują uporządkowanego, powtarzalnego procesu. Ta metodologia daje go od A do Z.
 
-This repository provides that process — battle-tested across 20+ Polish SMB clients.
+---
 
-## The 7 Phases
+## Spis treści
 
-| # | Phase | What You Get |
-|---|-------|-------------|
-| 1 | **Audit** | Complete picture of current marketing state, competitors, SWOT |
-| 2 | **Goals & KPIs** | SMART goals, OKRs, tracking dashboard setup |
-| 3 | **Strategy** | Positioning, messaging, channel selection |
-| 4 | **Content Plan** | Editorial calendar, formats, distribution channels |
-| 5 | **Automation** | Tool selection, workflow design, trigger setup |
-| 6 | **Implementation** | Sprint planning, team assignments, rollout |
-| 7 | **Optimization** | A/B testing, AI-driven insights, iteration cycles |
+### Metodologia (`/metodologia/`)
 
-## Repository Structure
+| # | Faza | Co otrzymujesz |
+|---|------|----------------|
+| 1 | **Audyt** | Pełny obraz obecnego stanu marketingu, konkurencji, SWOT |
+| 2 | **Cele i KPI** | Cele SMART, OKR-y, setup dashboardu |
+| 3 | **Strategia** | Pozycjonowanie, komunikacja, dobór kanałów |
+| 4 | **Plan treści** | Kalendarz redakcyjny, formaty, kanały dystrybucji |
+| 5 | **Automatyzacja** | Dobór narzędzi, projektowanie workflow, setup triggerów |
+| 6 | **Wdrożenie** | Planowanie sprintów, przypisania, rollout |
+| 7 | **Optymalizacja** | Testy A/B, insighty AI, cykle iteracji |
 
-```
-metodologia/          — Full methodology (7 phases, detailed guides)
-templates/            — Ready-to-use templates (audit, 90-day plan, budget, reports)
-case-studies/         — Anonymized real-world examples
-checklists/           — Launch and weekly task checklists
-```
+### Szablony (`/templates/`)
 
-## Quick Start
+- Szablon audytu marketingowego
+- Plan 90-dniowy
+- Budżet marketingowy
+- Raporty okresowe
 
-1. Read [`metodologia/00-przeglad.md`](metodologia/00-przeglad.md) for methodology overview
-2. Start with [`metodologia/01-audyt.md`](metodologia/01-audyt.md) using [`templates/audyt-template.md`](templates/audyt-template.md)
-3. Follow phases sequentially — each builds on the previous
-4. Use [`checklists/checklist-startu.md`](checklists/checklist-startu.md) before launch
+### Case studies (`/case-studies/`)
 
-## Who Is This For
+- Zanonimizowane przykłady z realnych wdrożeń
 
-- **Marketing managers** at SMBs (5-50 employees)
-- **Business owners** doing their own marketing
-- **Freelancers** building marketing services
-- **Agencies** looking for a structured methodology
+### Checklisty (`/checklists/`)
 
-## AI Tools Referenced
+- Checklista startu kampanii
+- Tygodniowa checklista zadań
 
-The methodology is tool-agnostic but references common AI tools:
-- Content generation (ChatGPT, Claude, Gemini)
-- Image creation (Midjourney, DALL-E, Ideogram)
-- Social media scheduling (Buffer, Postiz)
-- Analytics (Google Analytics, Hotjar)
-- Email automation (Mailerlite, ConvertKit)
+---
 
-## Contributing
+## Dla kogo
 
-Contributions, corrections, and tested framework extensions are welcome. Open an issue or PR if you want to improve the methodology or add a practical implementation example.
+- ✅ **Właściciele firm MŚP** — prowadzisz marketing samodzielnie i chcesz go usystematyzować z AI
+- ✅ **Managerowie marketingu** — szukasz metodologii, którą wdrożysz w zespole 5–50 osób
+- ✅ **Freelancerzy** — budujesz usługi marketingowe i potrzebujesz sprawdzonego frameworka
+- ✅ **Agencje** — szukacie uporządkowanej metodologii dla klientów MŚP
 
-## Related Repositories
+---
 
-- [ai-content-marketing](https://github.com/DariuszCiesielski/ai-content-marketing) — tactical content execution for the strategy layer
-- [ai-automatyzacja-biznesu](https://github.com/DariuszCiesielski/ai-automatyzacja-biznesu) — business automation examples you can plug into the strategy
-- [ai-sprzedaz-i-leady](https://github.com/DariuszCiesielski/ai-sprzedaz-i-leady) — sales and lead generation systems aligned with the methodology
+## Chcesz to wdrożyć?
 
-## Stay Connected
+Wiedza jest darmowa. Wdrożenie wymaga narzędzi i doświadczenia.
 
-- **Newsletter**: [AI w Biznesie](https://aiwbiznesie.pl)
-- **LinkedIn**: [Dariusz Ciesielski](https://www.linkedin.com/in/dariuszciesielski/)
-- **More repositories**: [DariuszCiesielski on GitHub](https://github.com/DariuszCiesielski)
+👉 **[Marketing Hub](https://marketing-hub-blush.vercel.app)** — narzędzie AI do planowania i realizacji strategii marketingowej
 
-## Language
+👉 **[Umów konsultację](https://aiwbiznesie.online/kontakt/)** — pomogę wdrożyć AI w marketing Twojej firmy
 
-All methodology content, templates, and case studies are written in **Polish** — designed for the Polish SMB market. READMEs are bilingual.
+---
 
-## License
+## Licencja
 
-[MIT](LICENSE) — use freely, adapt to your needs, give credit if you share.
+MIT — szczegóły w pliku [LICENSE](LICENSE).
+
+<p align="center"><sub>Zbudowane przez <a href="https://aiwbiznesie.online">AI w Biznesie</a></sub></p>
